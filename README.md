@@ -17,7 +17,7 @@ A passionate learner, dreamer, and developer who turns ideas into impactful digi
 
 ## 🛠️ Tech Stack
 
-`Java` | `JavaScript` | `MySQL` | `HTML/CSS` | `CSS` | `Git/GitHub`
+`Java` | `JavaScript` | `MySQL` | `HTML/CSS` | `Git/GitHub`
 
 ---
 
